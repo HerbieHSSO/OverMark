@@ -6,9 +6,9 @@ OverMark is a program developed by me, with the purpose of monitoring, testing a
 The Software has an integrated 3D scene rendering benchmark that for now is only available in the Single Thread benchmark.
 
 - CPU Measurements:
- - Name;
- - Cores & Threads;
- - Brand & Logo;
- - Current Clock(up to 12 Cores, MHz);
- - Power Consumption(Package, W);
- - Temperature(Package, °C)
+  - Name;
+  - Cores & Threads;
+  - Brand & Logo;
+  - Current Clock(up to 12 Cores, MHz);
+  - Power Consumption(Package, W);
+  - Temperature(Package, °C);
