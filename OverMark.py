@@ -110,13 +110,7 @@ class OverMark(QMainWindow):
 
 
     def UPLOAD(self):
-        print("request sent")
-        url = 'https://overmark.vercel.app/api/posts'
-      
-            
-        testing = {'userId':'61a932fc6c00d23d60d6543f', 'name': f'{self.processor.name()}', 'desc': f'{self.processor.spec()}', 'cores': f'{self.processor.cores()}', 'threads': f'{self.processor.threads()}', 'Base': f'None', 'Boost': f'None', 'key': 'ykx5T4u&H$G#', 'SingleCore': f'{self.overmark.RenderScore.text()}', 'FloatingPoint': f'{self.overmark.FPScore.text()}', 'Integer': f'{self.overmark.INTScore.text()}', 'Branch': f'{self.overmark.BranchScore.text()}'}
-
-        r = requests.post(url, data=testing)
+        None
         
 
 
