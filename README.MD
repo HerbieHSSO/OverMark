@@ -10,3 +10,11 @@ OverMark is a program developed by me, with the purpose of monitoring, testing a
   - Current Clock(up to 12 Cores, MHz);
   - Power Consumption(Package, W);
   - Temperature(Package, °C);
+
+
+
+
+
+Credits:
+https://pypi.org/project/PyQt5/
+https://github.com/openhardwaremonitor/openhardwaremonitor
