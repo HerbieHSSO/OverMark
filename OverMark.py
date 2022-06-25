@@ -27,7 +27,7 @@ try:
 except Exception:
     base_path = os.path.abspath(".")
     
-singlecore_form, singlecore_base = uic.loadUiType(os.path.join(base_path, 'Designer/singlecore.ui'))
+
 vector_form, vector_base = uic.loadUiType(os.path.join(base_path, 'Designer/vector.ui'))
 
 
